@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 export default function Contact() {
   return (
     <address>
@@ -7,5 +8,6 @@ export default function Contact() {
       SideHustle Internship <br/>
       sidehustle@yahoo.com.
     </address>
+   
   )
 }
